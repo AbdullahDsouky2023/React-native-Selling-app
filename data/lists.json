@@ -1,0 +1,52 @@
+{
+  "lists": [
+    {
+      "id": 200,
+      "title": "Red Jacket",
+      "images": [
+        {
+          "uri": "https://images.unsplash.com/photo-1697135776316-4d63385291b8?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "price": 100,
+      "catergoryId": 5,
+      "userId": 1,
+      "location": {
+        "latitude": 37.788225,
+        "longitude": -12.4324
+      }
+    },
+    {
+      "id": 300,
+      "title": "black Jacket",
+      "images": [
+        {
+          "uri": "https://images.unsplash.com/photo-1697135776316-4d63385291b8?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "price": 100,
+      "catergoryId": 5,
+      "userId": 1,
+      "location": {
+        "latitude": 37.788225,
+        "longitude": -12.4324
+      }
+    },
+    {
+      "id": 400,
+      "title": "blue Jacket",
+      "images": [
+        {
+          "uri": "https://images.unsplash.com/photo-1682685797332-e678a04f8a64?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwyMXx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ],
+      "price": 100,
+      "catergoryId": 5,
+      "userId": 1,
+      "location": {
+        "latitude": 37.788225,
+        "longitude": -12.4324
+      }
+    }
+  ]
+}
